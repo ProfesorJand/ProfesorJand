@@ -30,8 +30,9 @@ const ProfesorJand = {
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mysql.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/wordpress.png" /></a>
+
 
 **Previously worked with:**
 
@@ -39,7 +40,7 @@ const ProfesorJand = {
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png" /></a>
 
 
-[![ProfesorJand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesorJand)](https://github.com/anuraghazra/github-readme-stats)
+[![ProfesorJand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesorJand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
