@@ -4,7 +4,7 @@
 ```javascript
 const ProfesorJand = {
   pronouns: 'he' || 'him',
-  code: [Javascript, HTML, CSS, Python, PHP],
+  code: [Javascript, HTML, CSS, Python, PHP, Pascal],
   tools: [React, Redux, Node, Styled-Components, Bootstrap, Express, Postgres, SQL, Auth0, Cloudinary],
   profession: ( a='Industrial Engineer', b='Full Stack Developer' ) => { a + ' & ' + b },
   socialMedia: {
@@ -53,7 +53,9 @@ const ProfesorJand = {
   <img src="https://user-images.githubusercontent.com/100385965/202378982-a9889fa6-9503-488b-af2a-3671dc20400f.png" height="100" alt="TechMerc Image"/>
 </a>
 </div>
-    </div>
+    <br/>
+</div>
+
   
 [![ProfesorJand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesorJand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
