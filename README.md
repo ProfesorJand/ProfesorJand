@@ -23,6 +23,7 @@ const ProfesorJand = {
 [![Twitter](https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png)](https://twitter.com/ProfesorJAnd/)
 [![Instagram](https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png)](https://www.instagram.com/profesorjand/)
 [![YouTube](https://github.com/hussainweb/hussainweb/blob/main/icons/youtube.png)](https://www.youtube.com/@profesorjand/)
+<br/>
 
 **Currently working with:**
 
@@ -32,13 +33,16 @@ const ProfesorJand = {
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/wordpress.png" /></a>
-
+<br/>
 
 **Previously worked with:**
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png" /></a>
+<br/>
 
+
+![Dog Image Individual Proyect](https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry/blob/main/dog.png)
 
 [![ProfesorJand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesorJand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
