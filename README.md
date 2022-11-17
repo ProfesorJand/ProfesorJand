@@ -16,7 +16,9 @@ const ProfesorJand = {
                }
 }
 ```
-**Social Media:**
+<div style="display: flex;flex-direction: row;">
+  <div style="width:40%">
+  <h2>Social Media:</h2>
 
 [![LinkedIn](https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png)](https://www.linkedin.com/in/jorge-andrade-a658a8125/)
 [![GitHub](https://github.com/hussainweb/hussainweb/blob/main/icons/github.png)](https://github.com/ProfesorJand/)
@@ -25,7 +27,7 @@ const ProfesorJand = {
 [![YouTube](https://github.com/hussainweb/hussainweb/blob/main/icons/youtube.png)](https://www.youtube.com/@profesorjand/)
 <br/>
 
-**Currently working with:**
+  <h2>Currently working with:</h2>
 
 <a href="https://github.com/" title="GitHub"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png" /></a>
@@ -35,17 +37,27 @@ const ProfesorJand = {
 <a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/wordpress.png" /></a>
 <br/>
 
-**Previously worked with:**
+  <h2>Previously worked with:</h2>
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png" /></a>
 <br/>
 
+<h2>Completed Projects:</h2>
 
-![Dog Image Individual Proyect](https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry/blob/main/dog.png)
-
+<div style="aling-content:center; justify-content:center">
+<a href="https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry">
+<img src="https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry/blob/main/dog.png" height="90" alt="Dog Image"/>
+</a>
+<a href="https://github.com/PT07G05-Henry">
+  <img src="https://user-images.githubusercontent.com/100385965/202378982-a9889fa6-9503-488b-af2a-3671dc20400f.png" height="100" alt="TechMerc Image"/>
+</a>
+</div>
+    </div>
+  
 [![ProfesorJand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesorJand&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!--
 **ProfesorJand/ProfesorJand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
