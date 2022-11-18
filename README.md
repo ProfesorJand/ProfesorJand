@@ -8,7 +8,7 @@ const ProfesorJand = {
   tools: [React, Redux, Node, Styled-Components, Bootstrap, Express, Postgres, SQL, Auth0, Cloudinary],
   profession: ( a='Industrial Engineer', b='Full Stack Developer' ) => { a + ' & ' + b },
   socialMedia: {
-                LinkedIn: "https://www.linkedin.com/in/jorge-andrade-a658a8125/",
+                LinkedIn: "https://www.linkedin.com/in/profesorjand/",
                 Github: "https://github.com/ProfesorJand/",
                 Twitter: "https://twitter.com/ProfesorJAnd/",
                 Instagram: "https://www.instagram.com/profesorjand/",
@@ -20,7 +20,7 @@ const ProfesorJand = {
   <div style="width:40%">
   <h2>Social Media:</h2>
 
-[![LinkedIn](https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png)](https://www.linkedin.com/in/jorge-andrade-a658a8125/)
+[![LinkedIn](https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png)](https://www.linkedin.com/in/profesorjand/)
 [![GitHub](https://github.com/hussainweb/hussainweb/blob/main/icons/github.png)](https://github.com/ProfesorJand/)
 [![Twitter](https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png)](https://twitter.com/ProfesorJAnd/)
 [![Instagram](https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png)](https://www.instagram.com/profesorjand/)
