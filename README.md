@@ -46,12 +46,17 @@ const ProfesorJand = {
 <h2>Completed Projects:</h2>
 
 <div style="aling-content:center; justify-content:center">
+  <a href="https://guiadeparche.com">
+  <img src="https://guiadeparche.com/wp-content/uploads/2020/06/cropped-guiadeparche-logo-sin-letra-150p-2.png" height="100" alt="Guiadeparche Logo Image"/>
+</a>
+  <a href="https://github.com/PT07G05-Henry">
+  <img src="https://user-images.githubusercontent.com/100385965/202378982-a9889fa6-9503-488b-af2a-3671dc20400f.png" height="100" alt="TechMerc Logo Image"/>
+</a>
 <a href="https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry">
-<img src="https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry/blob/main/dog.png" height="90" alt="Dog Image"/>
+<img src="https://github.com/ProfesorJand/Proyecto-Individual-Soy-Henry/blob/main/dog.png" height="90" alt="Dog Logo Image"/>
 </a>
-<a href="https://github.com/PT07G05-Henry">
-  <img src="https://user-images.githubusercontent.com/100385965/202378982-a9889fa6-9503-488b-af2a-3671dc20400f.png" height="100" alt="TechMerc Image"/>
-</a>
+
+
 </div>
     <br/>
 </div>
