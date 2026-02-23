@@ -47,7 +47,7 @@ const ProfesorJand = {
 
 <div style="aling-content:center; justify-content:center">
   <a href="https://guiadeparche.com">
-  <img src="https://guiadeparche.com/wp-content/uploads/2020/06/cropped-guiadeparche-logo-sin-letra-150p-2.png" height="100" alt="Guiadeparche Logo Image"/>
+  <img src="https://guiadeparche.com/_astro/GP_logo.C0j6Xi6k_1OEnsM.webp" alt="Guiadeparche Logo Image"/>
 </a>
   <a href="https://github.com/PT07G05-Henry">
   <img src="https://user-images.githubusercontent.com/100385965/202378982-a9889fa6-9503-488b-af2a-3671dc20400f.png" height="100" alt="TechMerc Logo Image"/>
